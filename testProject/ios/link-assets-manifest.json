@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/PlusJakartaSans.ttf",
+      "sha1": "f9292b9fb01731811fe12635ec5445a8fed9475e"
+    },
+    {
+      "path": "assets/fonts/Sofia-Regular.ttf",
+      "sha1": "aec9974fa8f4132e2e11820c506f376ba5f3b62a"
+    }
+  ]
+}
